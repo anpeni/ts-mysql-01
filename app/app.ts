@@ -4,7 +4,7 @@ import { createConnection, MysqlError, PoolConnection, FieldInfo } from 'mysql';
 import { config } from 'dotenv';
 
 config();
-//test
+
 export const app = express();
 
 app.use(json());

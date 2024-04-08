@@ -3,7 +3,7 @@ import { json, urlencoded } from 'body-parser';
 import { createConnection, MysqlError, PoolConnection, FieldInfo } from 'mysql';
 import { config } from 'dotenv';
 
-config();
+config();sdfdfdfdfdfdf
 
 export const app = express();
 

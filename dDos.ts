@@ -15,6 +15,7 @@ function recursiónInsegura(n: number) {
 
 // Ejemplo de uso que causaría un bucle infinito.
 bucleInseguro();
+//sdsd
 
 // Ejemplo de llamada a una función recursiva sin una condición de terminación.
 // Se causaría un desbordamiento de pila si se permite que se ejecute hasta el infinito.

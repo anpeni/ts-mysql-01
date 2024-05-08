@@ -2,6 +2,7 @@
 app.use((req, res, next) => {
     // No se configuran cabeceras de seguridad
     next();
+    
 });
 
 //Configuración de Seguridad Incorrecta:

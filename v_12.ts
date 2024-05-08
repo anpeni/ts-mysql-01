@@ -6,4 +6,5 @@ app.post('/update-profile', (req, res) => {
     // La aplicación no verifica la existencia de un token CSRF en la solicitud.
     updateUserProfile(req.body);
     res.send('Perfil actualizado');
+    
 });

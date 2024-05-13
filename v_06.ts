@@ -1,6 +1,7 @@
 app.post('/submit-credit-card', (req, res) => {
     // Aquí, la información de la tarjeta de crédito se transmite sin cifrado.
     const creditCardNumber = req.body.creditCardNumber;
+    
     // ...
 });
 

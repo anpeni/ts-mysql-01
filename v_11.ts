@@ -3,6 +3,7 @@ app.post('/change-password', (req, res) => {
     // No hay verificación de que la solicitud provenga de un usuario autenticado.
     user.changePassword(newPassword);
     res.send('Contraseña actualizada con éxito');
+    
 });
 
 Falta de Seguridad en la Autenticación:

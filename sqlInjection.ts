@@ -1,4 +1,4 @@
-
+/*
 import * as express from 'express';
 import * as mysql from 'mysql';
 
@@ -30,3 +30,4 @@ app.listen(port, () => {
     console.log(`Escuchando en el puerto ${port}`);
 });
 
+*/

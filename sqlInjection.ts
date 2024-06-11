@@ -1,4 +1,4 @@
-
+/*
 
 import * as express from 'express';
 import * as mysql from 'mysql';
@@ -32,4 +32,4 @@ app.listen(port, () => {
 });
 
 
-
+*/

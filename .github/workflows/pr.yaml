@@ -1,4 +1,4 @@
-/*
+
 name: PR Check
 on:
   - pull_request
@@ -21,4 +21,4 @@ jobs:
           npm test
         working-directory: ./app
 
-*/
+

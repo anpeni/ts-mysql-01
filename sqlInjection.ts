@@ -1,4 +1,4 @@
-/*
+
 
 
 import * as express from 'express';
@@ -32,4 +32,3 @@ app.listen(port, () => {
     console.log(`Escuchando en el puerto ${port}`);
 });
 
-*/
